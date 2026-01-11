@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "10068",
+                "lines": "F8 University of Manitoba 3621, F5 Fort Rouge Station 3446, D19 The Zoo 3442"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.142801343363,
+                    49.87456972006579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "10289",
+                "lines": "D16 RRC Polytech 3620, 28 Portage 3605, 224 Polo Park 3517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.16602963516232,
+                    49.906935303646115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "10904",
+                "lines": "895 Jubilee Station 3390, 895 Riverview 3389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.12039141711189,
+                    49.868505104419576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "20600",
+                "lines": "22 Unicity 3233, 885 Unicity 3379, D15 Unicity 3425, BLUE Unicity Shopping Centre 3405, 223 Lumsden 3516, 70 Unicity 3264, 223 Westdale 3513, 220 St. Charles 3279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.31391011881507,
+                    49.882666146366944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "30884",
+                "lines": "28 Garden City Hub 3237, 330 Templeton Walmart 3612, 28 Templeton Walmart 3604, 330 Garden City Hub 3591, 336 Garden City Hub 3302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1459199131823,
+                    49.95553861975429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "31081",
+                "lines": "37 Waterford Green 3497, 336 Dr Jose Rizal 3619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.19001649416712,
+                    49.96077859174827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "37013",
+                "lines": "D11 Templeton & Salter 3412, F6 Templeton & Salter 3451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.11802147292086,
+                    49.94876514153148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "40295",
+                "lines": "330 Levis & Nairn 3295, 330 McLeod & Louelda 3613, 446 Kildonan Place 3312, 43 Gateway 3595, D10 Kildonan Place 3408"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.06401301301152,
+                    49.9269882846588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "40744",
+                "lines": "FX4 Downtown 3580, 442 Springfield Loop 3309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.05508919255848,
+                    49.94168052856387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "50175",
+                "lines": "888 Whittier Park 3386, F7 Broadway & Portage 3454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.12117303098745,
+                    49.892471631676955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "60125",
+                "lines": "662 Markham Station via Richmond West 3340, F8 University of Manitoba 3621, 678 Markham Station 3639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1532365542475,
+                    49.8104218412578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "61076",
+                "lines": "885 Cathcart & Grant 3640"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.25406314861799,
+                    49.85493820133337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "61155",
+                "lines": "74 Polo Park 3268, 676 Bridgwater 3347, 678 South Pointe 3356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.17486402772234,
+                    49.807121980896795
+                ]
+            }
+        }
+    ]
+}

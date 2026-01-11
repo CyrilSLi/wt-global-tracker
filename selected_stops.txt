@@ -1,0 +1,63 @@
+10068  D19 The Zoo 3442, F8 University of Manitoba 3621, F5 Fort Rouge Station 3446
+10289  D16 RRC Polytech 3620, 28 Portage 3605, 224 Polo Park 3517
+10442  889 University of Manitoba 3388, D11 Downtown 3413
+10552  FX4 Polo Park 3554, D14 Wall Street 3560, D15 Unicity 3425
+10562  D15 Downtown 3426, 680 Polo Park Hub 3360, D16 Polo Park 3567, FX4 Downtown 3551, 70 Polo Park 3265
+10635  F8 University of Manitoba 3621, FX2 Downtown 3576, FX3 Downtown 3479, 43 Downtown 3258, D16 Polo Park 3567, D16 Downtown 3432
+10641  FX2 St. Vital Centre 3624, D14 Redonda & Pandora 3644, FX3 Sturgeon & Murray Park 3480, D15 Sage Creek 3563, D14 Plessis & Victoria via Dugald 3558
+10657  F8 Glenway 3463, D16 Downtown 3432
+10743  224 Tecumseh Loop 3291, 833 Tecumseh Loop 3367
+10803  FX4 Raleigh & Knowles 3486, D12 The Forks 3416, F7 Creek Bend 3572, D13 The Forks 3419, D16 Polo Park 3567
+10904  895 Jubilee Station 3390, 895 Riverview 3389
+20034  43 Downtown 3596, 881 North Inkster Industrial 3369
+20252  223 Lumsden 3516, 885 Ronald & Portage 3377, 22 Polo Park 3234
+20438  883 Saskatchewan Loop 3371, 885 Unicity 3379, 220 Rouge & Assiniboine 3282
+20469  883 Grace Hospital 3372, 885 Ronald & Portage 3377
+20523  D12 The Airport 3417, 224 Polo Park 3608, D13 The Airport 3418, 224 RRC Polytech 3288
+20600  885 Unicity 3379, 223 Westdale 3513, 70 Unicity 3264, BLUE Unicity Shopping Centre 3405, 220 St. Charles 3279, 22 Unicity 3233, 223 Lumsden 3516, D15 Unicity 3425
+21020  D17 RRC Polytech 3439, 43 RRC Polytech 3255, D16 RRC Polytech 3620, 881 RRC Polytech 3370, 74 Polo Park 3269
+30057  31 The Forks 3496, 39 Cathedral & Main 3252
+30095  31 Riverbend 3495, FX2 Garden City Centre 3473, D17 Selkirk & McPhillips 3538
+30525  332 Garden City Hub 3296, D17 RRC Polytech 3439, 336 Dr Jose Rizal 3636, 833 Tyndall Park 3368
+30589  38 Garden City Hub 3251, 37 Cathedral & Main 3498
+30871  884 Waterford Green 3374, 74 Waterford Green 3271, 334 Waterford Green 3299
+30884  28 Templeton Walmart 3604, 28 Garden City Hub 3237, 330 Garden City Hub 3591, 336 Garden City Hub 3302, 330 Templeton Walmart 3612
+30998  39 Waterford Green 3253, 332 Selkirk & McPhillips 3297, D10 Waterford Green 3409
+31078  336 Fife Loop 3303, F5 Garden City Centre 3540
+31081  336 Dr Jose Rizal 3619, 37 Waterford Green 3497
+31084  884 Portage 3373, 334 Garden City Hub 3298, 74 Polo Park 3269
+37013  F6 Templeton & Salter 3451, D11 Templeton & Salter 3412
+40186  440 Crossroads Station 3305, FX3 Downtown 3479
+40196  38 Kildonan Place 3250, D10 Kildonan Place 3408, D17 Kildonan Place 3440, 440 Lakeside Meadows 3304, F9 Kildonan Place 3468, FX3 Redonda & Pandora 3481
+40295  446 Kildonan Place 3312, 43 Gateway 3595, 330 McLeod & Louelda 3613, D10 Kildonan Place 3408, 330 Levis & Nairn 3295
+40744  FX4 Downtown 3580, 442 Springfield Loop 3309
+40903  446 Kildonan Place 3312, 442 Kildonan Place Hub 3308, 48 Kildonan Place 3260, 444 Kildonan Place Hub 3600
+40904  48 Redonda & Pandora 3261, 444 Summerlea 3598, 446 Whellams Lane 3313
+50160  551 Paterson & Lagimodiere 3592, FX4 Downtown 3580, 887 St. Boniface Industrial Park 3525, 886 South Transcona 3524
+50161  887 Stadacona 3526, FX4 Raleigh & Knowles 3486, 886 Stadacona 3523, 551 Watt & Leighton 3314
+50175  F7 Broadway & Portage 3454, 888 Whittier Park 3386
+50321  551 Paterson & Lagimodiere 3592, 557 Sage Creek 3326
+50579  558 Avalon Loop 3330, FX2 Downtown 3575, 552 Avalon Loop 3319
+50599  556 Plaza Dr 3323, F6 South St. Vital 3452
+50634  D15 Downtown 3564, F9 Lakewood at Vermillion 3623, 556 Sage Creek 3321, 558 East Mint 3328, 557 St.Anne's & Niakwa 3637
+50997  676 Creek Bend via Burland 3352, F7 Creek Bend 3572
+51088  552 South St. Vital 3317, F7 Creek Bend 3572
+57013  888 Norwood 3385, F7 Creek Bend 3572
+60032  BLUE Downtown 3394, 91 Baylor & Killarney 3278
+60105  74 Polo Park 3268, F9 Lakewood at Vermillion 3623, 672 Prairie Pointe 3345, 671 Prairie Pointe 3522, F8 Downtown 3622, BLUE Downtown 3399, 679 Seel Station 3357, 662 Markham Station via Richmond West 3340, 889 Tecumseh Loop 3387
+60125  662 Markham Station via Richmond West 3340, 678 Markham Station 3639, F8 University of Manitoba 3621
+60255  D11 Beaumont Station 3414, 694 Seel Station via Wildwood 3366
+60534  885 Dale & Windmill 3641, FX3 Downtown 3578
+60691  D19 Downtown 3443, 680 Seel Station 3359
+60805  BLUE St. Norbert 3391, 91 St. Norbert 3277
+60908  641 Commerce Loop 3332, 642 Henlow & Fultz 3334, 650 Seel Station 3337
+60909  650 Fort Whyte Alive 3338, 642 Seel Station 3333, 641 Beaumont Station 3331
+61076  885 Cathcart & Grant 3640
+61155  676 Bridgwater 3347, 678 South Pointe 3356, 74 Polo Park 3268
+61202  BLUE Downtown 3394, BLUE Downtown 3399, D11 Downtown 3415, 649 Fort Whyte Alive 3335
+61205  691 Whyte Ridge via Scurfield 3364, 690 Kenaston via Fort Garry Industrial Park 3361, 28 Garden City Hub 3237, 642 Henlow & Fultz 3334, 649 Seel Station 3336, BLUE St. Norbert 3391, 694 Fort Garry Industrial Park via 3365, 679 University of Manitoba 3358, 650 Fort Whyte Alive 3338, 680 Polo Park Hub 3360, BLUE University of Manitoba 3401
+61206  691 Seel Station via Chevrier 3363, BLUE Downtown 3394, BLUE Downtown 3399, 690 Seel Station via Fort Garry Industrial Park 3362
+61253  74 University of Manitoba 3272, 672 University of Manitoba 3346, 889 University of Manitoba 3388, 671 University of Manitoba 3521, F8 University of Manitoba 3621, F9 University of Manitoba 3464, 679 University of Manitoba 3358, 662 University of Manitoba 3339, BLUE University of Manitoba 3401
+61289  28 Seel Station 3240, 679 Seel Station 3357, 642 Seel Station 3333, 680 Seel Station 3359
+62068  664 Stafford & Pembina 3341, 677 Beaumont Station 3354
+62073  677 Outlet Mall 3353, 664 Outlet Mall 3342
