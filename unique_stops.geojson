@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "stop_id": "10068",
-                "lines": "F8 University of Manitoba 3621, F5 Fort Rouge Station 3446, D19 The Zoo 3442"
+                "lines": "F5 Fort Rouge Station 3446, D19 The Zoo 3442, F8 University of Manitoba 3621"
             },
             "geometry": {
                 "type": "Point",
@@ -19,13 +19,111 @@
             "type": "Feature",
             "properties": {
                 "stop_id": "10289",
-                "lines": "D16 RRC Polytech 3620, 28 Portage 3605, 224 Polo Park 3517"
+                "lines": "28 Portage 3605, 224 Polo Park 3517, D16 RRC Polytech 3620"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -97.16602963516232,
                     49.906935303646115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "10552",
+                "lines": "D14 Wall Street 3560, FX4 Polo Park 3554, D15 Unicity 3425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.17087142086301,
+                    49.88534296146702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "10562",
+                "lines": "680 Polo Park Hub 3360, 70 Polo Park 3265, FX4 Downtown 3551, D15 Downtown 3426, D16 Polo Park 3567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.19956675475741,
+                    49.88039580167746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "10600",
+                "lines": "D19 The Zoo 3442, F6 South St. Vital 3452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.14885564244786,
+                    49.88331093020371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "10635",
+                "lines": "D16 Downtown 3432, FX3 Downtown 3479, F8 University of Manitoba 3621, 43 Downtown 3258, FX2 Downtown 3576, D16 Polo Park 3567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.13907716881502,
+                    49.89903036515417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "10641",
+                "lines": "D15 Sage Creek 3563, D14 Redonda & Pandora 3644, FX2 St. Vital Centre 3624, D14 Plessis & Victoria via Dugald 3558, FX3 Sturgeon & Murray Park 3480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.13474401922453,
+                    49.88825654763779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "10733",
+                "lines": "D16 RRC Polytech 3620, D11 Downtown 3413"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.15224600207742,
+                    49.903163119252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "10743",
+                "lines": "224 Tecumseh Loop 3291, 833 Tecumseh Loop 3367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.16268198050165,
+                    49.90633353297763
                 ]
             }
         },
@@ -46,8 +144,106 @@
         {
             "type": "Feature",
             "properties": {
+                "stop_id": "11051",
+                "lines": "FX3 Downtown 3578, BLUE Downtown 3394, FX2 Downtown 3575, BLUE Downtown 3399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.13619652709178,
+                    49.89175202506861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "17007",
+                "lines": "FX4 Downtown 3580, F7 Broadway & Portage 3454, BLUE Downtown 3399, D12 The Airport 3417, D16 RRC Polytech 3620, BLUE Downtown 3394, D13 The Airport 3418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.13848198630971,
+                    49.89314704805488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "20034",
+                "lines": "43 Downtown 3596, 881 North Inkster Industrial 3369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.20658671088674,
+                    49.917087260299986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "20266",
+                "lines": "885 Dale & Windmill 3641, 22 Polo Park 3234, 220 St. Charles 3279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.26628469644238,
+                    49.87614309830389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "20438",
+                "lines": "220 Rouge & Assiniboine 3282, 885 Unicity 3379, 883 Saskatchewan Loop 3371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.27382072573633,
+                    49.87909810053848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "20469",
+                "lines": "883 Grace Hospital 3372, 885 Ronald & Portage 3377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.27574864688034,
+                    49.88163641285933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "20542",
+                "lines": "224 Polo Park 3608, D13 The Forks 3419, D12 The Forks 3416, 224 RRC Polytech 3288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.22491819132075,
+                    49.90156563328278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "stop_id": "20600",
-                "lines": "22 Unicity 3233, 885 Unicity 3379, D15 Unicity 3425, BLUE Unicity Shopping Centre 3405, 223 Lumsden 3516, 70 Unicity 3264, 223 Westdale 3513, 220 St. Charles 3279"
+                "lines": "70 Unicity 3264, 223 Lumsden 3516, 22 Unicity 3233, BLUE Unicity Shopping Centre 3405, 220 St. Charles 3279, 885 Unicity 3379, D15 Unicity 3425, 223 Westdale 3513"
             },
             "geometry": {
                 "type": "Point",
@@ -60,14 +256,126 @@
         {
             "type": "Feature",
             "properties": {
+                "stop_id": "21020",
+                "lines": "D17 RRC Polytech 3439, D16 RRC Polytech 3620, 43 RRC Polytech 3255, 881 RRC Polytech 3370, 74 Polo Park 3269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.20760914224869,
+                    49.91656339523015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "30057",
+                "lines": "31 The Forks 3496, 39 Cathedral & Main 3252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.12491201322604,
+                    49.92639848209365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "30095",
+                "lines": "31 Riverbend 3495, FX2 Garden City Centre 3473, D17 Selkirk & McPhillips 3538"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.13293915038895,
+                    49.90977052616135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "30525",
+                "lines": "332 Garden City Hub 3296, 833 Tyndall Park 3368, 336 Dr Jose Rizal 3636, D17 RRC Polytech 3439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.17342257210476,
+                    49.92838821825666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "30589",
+                "lines": "37 Cathedral & Main 3498, 38 Garden City Hub 3251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.16894472798423,
+                    49.95021116504898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "30871",
+                "lines": "884 Waterford Green 3374, 334 Waterford Green 3299, 74 Waterford Green 3271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.19501261092485,
+                    49.946491718533345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "stop_id": "30884",
-                "lines": "28 Garden City Hub 3237, 330 Templeton Walmart 3612, 28 Templeton Walmart 3604, 330 Garden City Hub 3591, 336 Garden City Hub 3302"
+                "lines": "330 Garden City Hub 3591, 330 Templeton Walmart 3612, 28 Garden City Hub 3237, 28 Templeton Walmart 3604, 336 Garden City Hub 3302"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -97.1459199131823,
                     49.95553861975429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "30998",
+                "lines": "D10 Waterford Green 3409, 332 Selkirk & McPhillips 3297, 39 Waterford Green 3253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.18818806339215,
+                    49.954885334940535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "31078",
+                "lines": "336 Fife Loop 3303, F5 Garden City Centre 3540"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.16891148180932,
+                    49.92719260252994
                 ]
             }
         },
@@ -88,8 +396,22 @@
         {
             "type": "Feature",
             "properties": {
+                "stop_id": "31084",
+                "lines": "884 Portage 3373, 334 Garden City Hub 3298, 74 Polo Park 3269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1953322779489,
+                    49.94875441992647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "stop_id": "37013",
-                "lines": "D11 Templeton & Salter 3412, F6 Templeton & Salter 3451"
+                "lines": "F6 Templeton & Salter 3451, D11 Templeton & Salter 3412"
             },
             "geometry": {
                 "type": "Point",
@@ -102,14 +424,42 @@
         {
             "type": "Feature",
             "properties": {
+                "stop_id": "40196",
+                "lines": "F9 Kildonan Place 3468, 38 Kildonan Place 3250, 440 Lakeside Meadows 3304, D17 Kildonan Place 3440, D10 Kildonan Place 3408, FX3 Redonda & Pandora 3481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.06354748953551,
+                    49.897224826064814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "stop_id": "40295",
-                "lines": "330 Levis & Nairn 3295, 330 McLeod & Louelda 3613, 446 Kildonan Place 3312, 43 Gateway 3595, D10 Kildonan Place 3408"
+                "lines": "446 Kildonan Place 3312, 330 McLeod & Louelda 3613, 43 Gateway 3595, 330 Levis & Nairn 3295, D10 Kildonan Place 3408"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -97.06401301301152,
                     49.9269882846588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "40393",
+                "lines": "F8 Glenway 3463, 330 Garden City Hub 3591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.08493446870676,
+                    49.94649562035078
                 ]
             }
         },
@@ -130,8 +480,92 @@
         {
             "type": "Feature",
             "properties": {
+                "stop_id": "40903",
+                "lines": "48 Kildonan Place 3260, 444 Kildonan Place Hub 3600, 446 Kildonan Place 3312, 442 Kildonan Place Hub 3308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.04947792384706,
+                    49.90218775287386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "40904",
+                "lines": "446 Whellams Lane 3313, 48 Redonda & Pandora 3261, 444 Summerlea 3598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.04881597642212,
+                    49.90271630185055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "41071",
+                "lines": "440 Crossroads Station 3305, 444 Summerlea 3598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0256082742525,
+                    49.90046976375985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "50103",
+                "lines": "F9 Kildonan Place 3468, 558 East Mint 3328, 557 St.Anne's & Niakwa 3637, D15 Downtown 3564, 551 Watt & Leighton 3314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0785214163151,
+                    49.85678952873268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "50160",
+                "lines": "887 St. Boniface Industrial Park 3525, 551 Paterson & Lagimodiere 3592, 886 South Transcona 3524, FX4 Downtown 3580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.10698521908778,
+                    49.89851003184502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "50161",
+                "lines": "FX4 Raleigh & Knowles 3486, 887 Stadacona 3526, 886 Stadacona 3523, 551 Watt & Leighton 3314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1068622759484,
+                    49.8988048577577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "stop_id": "50175",
-                "lines": "888 Whittier Park 3386, F7 Broadway & Portage 3454"
+                "lines": "F7 Broadway & Portage 3454, 888 Whittier Park 3386"
             },
             "geometry": {
                 "type": "Point",
@@ -144,14 +578,182 @@
         {
             "type": "Feature",
             "properties": {
+                "stop_id": "50617",
+                "lines": "556 Sage Creek 3321, 552 South St. Vital 3317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.10593929470704,
+                    49.82774650509266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "50633",
+                "lines": "556 Plaza Dr 3323, D15 Sage Creek 3563, F9 University of Manitoba 3464, 557 Sage Creek 3326, 558 Avalon Loop 3330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.07262467333635,
+                    49.84168756972367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "50782",
+                "lines": "552 Avalon Loop 3319, 558 East Mint 3328"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.08287981981242,
+                    49.82153786699287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "50997",
+                "lines": "676 Creek Bend via Burland 3352, F7 Creek Bend 3572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.07532111341153,
+                    49.812660058178956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "57013",
+                "lines": "888 Norwood 3385, F7 Creek Bend 3572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1209570267003,
+                    49.892297219832614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "60032",
+                "lines": "91 Baylor & Killarney 3278, BLUE Downtown 3394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.15697849988004,
+                    49.78692323139155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "60105",
+                "lines": "671 Prairie Pointe 3522, 74 Polo Park 3268, 889 Tecumseh Loop 3387, F9 Lakewood at Vermillion 3623, F8 Downtown 3622, 672 Prairie Pointe 3345, 679 Seel Station 3357, BLUE Downtown 3399, 662 Markham Station via Richmond West 3340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.13652986688429,
+                    49.80677180752524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "stop_id": "60125",
-                "lines": "662 Markham Station via Richmond West 3340, F8 University of Manitoba 3621, 678 Markham Station 3639"
+                "lines": "678 Markham Station 3639, 662 Markham Station via Richmond West 3340, F8 University of Manitoba 3621"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -97.1532365542475,
                     49.8104218412578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "60255",
+                "lines": "D11 Beaumont Station 3414, 694 Seel Station via Wildwood 3366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1533906955146,
+                    49.847996837492545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "60472",
+                "lines": "70 Polo Park 3265, D19 Downtown 3443"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2288868119566,
+                    49.866959829438734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "60805",
+                "lines": "BLUE St. Norbert 3391, 91 St. Norbert 3277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.15645627193253,
+                    49.76810600919372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "60847",
+                "lines": "664 Stafford & Pembina 3341, 664 Outlet Mall 3342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.21582234696035,
+                    49.85064015713304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "60956",
+                "lines": "691 Seel Station via Chevrier 3363, 649 Seel Station 3336, 650 Seel Station 3337, 691 Whyte Ridge via Scurfield 3364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.21642704468678,
+                    49.805098542621934
                 ]
             }
         },
@@ -173,13 +775,111 @@
             "type": "Feature",
             "properties": {
                 "stop_id": "61155",
-                "lines": "74 Polo Park 3268, 676 Bridgwater 3347, 678 South Pointe 3356"
+                "lines": "676 Bridgwater 3347, 74 Polo Park 3268, 678 South Pointe 3356"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -97.17486402772234,
                     49.807121980896795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "61202",
+                "lines": "649 Fort Whyte Alive 3335, BLUE Downtown 3399, BLUE Downtown 3394, D11 Downtown 3415"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.16543759895691,
+                    49.8487281282694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "61203",
+                "lines": "BLUE University of Manitoba 3401, 641 Commerce Loop 3332, 649 Seel Station 3336, BLUE St. Norbert 3391, 677 Outlet Mall 3353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1662493979797,
+                    49.848597072349925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "61205",
+                "lines": "BLUE University of Manitoba 3401, 691 Whyte Ridge via Scurfield 3364, 650 Fort Whyte Alive 3338, 694 Fort Garry Industrial Park via 3365, 649 Seel Station 3336, 680 Polo Park Hub 3360, 28 Garden City Hub 3237, 679 University of Manitoba 3358, BLUE St. Norbert 3391, 690 Kenaston via Fort Garry Industrial Park 3361, 642 Henlow & Fultz 3334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.16870113905497,
+                    49.84224939571472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "61206",
+                "lines": "691 Seel Station via Chevrier 3363, 690 Seel Station via Fort Garry Industrial Park 3362, BLUE Downtown 3394, BLUE Downtown 3399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.16227677690824,
+                    49.83450174260081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "61253",
+                "lines": "BLUE University of Manitoba 3401, 662 University of Manitoba 3339, 672 University of Manitoba 3346, 889 University of Manitoba 3388, F9 University of Manitoba 3464, 74 University of Manitoba 3272, 671 University of Manitoba 3521, F8 University of Manitoba 3621, 679 University of Manitoba 3358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.13607079215693,
+                    49.80678240311458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "61283",
+                "lines": "641 Beaumont Station 3331, 677 Beaumont Station 3354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.17850489350319,
+                    49.846748721561546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": "61289",
+                "lines": "680 Seel Station 3359, 642 Seel Station 3333, 679 Seel Station 3357, 28 Seel Station 3240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.17456413261385,
+                    49.8398413911904
                 ]
             }
         }
