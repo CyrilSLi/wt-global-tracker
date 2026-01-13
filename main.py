@@ -11,8 +11,9 @@ with gtfs_file("stop_times") as f:
     for row in csv.DictReader(f):
         trip_stops.setdefault(row["trip_id"], []).append((row["stop_id"], int(row["stop_sequence"])))
 
+stops_removed = 1
 unique_trips = {tuple(i for i, _ in sorted(stops, key=lambda x: x[1])): trip_id for trip_id, stops in trip_stops.items()}
-unique_trips = {v: k[1:-1] for k, v in unique_trips.items()} # Remove first and last stops because their arrival times are often inaccurate
+unique_trips = {v: k[stops_removed:-stops_removed] for k, v in unique_trips.items()} # Remove first and last stops because their arrival times are often inaccurate
 all_unique_trips = unique_trips.copy() # Save for later use
 print(len(unique_trips), "unique trips")
 
@@ -125,8 +126,9 @@ def write_freq():
 def write_stops():
     global selected_stops_optimal
     with open("selected_stops.txt", "w") as f:
-        for i in sorted(selected_stops_optimal):
-            f.write(i + "  " + ", ".join(j for j, k in all_unique_trips.items() if i in k) + "\n")
+        f.write("\n".join((f'{i}  {", ".join(stop_trips[i])}' for i in sorted(selected_stops_optimal))))
+        """ for i in sorted(selected_stops_optimal):
+            f.write(i + "  " + ", ".join(j for j, k in all_unique_trips.items() if i in k) + "\n") """
 
 try:
     while True:
@@ -168,6 +170,9 @@ try:
             selected_stops_optimal = selected_stops_copy.copy()
             print("--- WARNING: New optimal found with", len(selected_stops_copy), "stops ---")
             break
+
+        """ else:
+            print("*", end="", flush=True) """
 
 except KeyboardInterrupt:
     print()
