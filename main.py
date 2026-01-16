@@ -83,7 +83,7 @@ def main():
                             print(f"ERROR: stop {stop_id} is first or last stop of trip {i}")
                             raise ValueError("Invalid stop in selected stops")
                         count += 1
-                        print(f" {j.index(stop_id)}/{len(j)}", end="")
+                        print(f" {i.split()[0]}-{j.index(stop_id)}/{len(j)}", end="")
                 print("", flush=True)
 
             if set.union(*stop_trips.values()) != set(all_unique_trips.keys()):
