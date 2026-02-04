@@ -217,7 +217,8 @@ def main():
                     print("  New max total lines:", total_lines)
                     max_total_lines = total_lines
                     selected_stops_optimal = selected_stops_copy.copy()
-                    write_stops()
+                    write_stops() # SHOULD NOT HAPPEN - Pick a smaller experimental_min before running again
+                    raise SystemError
 
     except KeyboardInterrupt:
         print()
