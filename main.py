@@ -143,10 +143,11 @@ def main():
 
     # Test greedy set cover algorithm
 
+    experimental_min = 64 # TODO: CHANGE IF TRANSIT NETWORK UPDATES
+
     min_stops_selected = len(stop_trips_left) + 1
     covered_trips_orig = set().union(*(j for i, j in stop_trips.items() if i in selected_stops))
     selected_stops_optimal = None
-    experimental_min = 64
     max_total_lines = -1
 
     try:
