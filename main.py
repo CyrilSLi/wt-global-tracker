@@ -70,10 +70,12 @@ def main():
 
 
     if sys.argv[-1] == "--count":
-        count = 0
+        print()
+        count, stops = 0, 0
         with open("selected_stops.txt") as f:
             stop_trips = {}
             for line in f:
+                stops += 1
                 stop_id = line.strip().split()[0]
                 print(stop_id, end="")
                 for i, j in all_unique_trips.items():
@@ -90,6 +92,8 @@ def main():
                 missing = set(all_unique_trips.keys()) - set.union(*stop_trips.values())
                 raise ValueError("ERROR: Missing trips:", ", ".join(missing))
 
+        print()
+        print(stops, "selected stops")
         print(count, "lines served by selected stops")
         raise SystemExit("Debug exit successful")
 
